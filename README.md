@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **klichuk/klichuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Vlad and I'm a DevOps engineer</h1>
-<h3 align="center">DevOps engineer from UKRAINE</h3>
+<h1 align="center">Hi 👋, I'm Vlad and I'm a DevOps engineer from UKRAINE</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
